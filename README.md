@@ -14,3 +14,4 @@ I am a big fan of programmatic animations and like to learn from others. Since m
 
  * [Simple Flower](https://www.shadertoy.com/view/XtVSz1) by cacheflowe
  * [Glitch transform](https://www.shadertoy.com/view/XtyXzW) by cacheflowe
+ * [Geodesic Tiling](https://www.shadertoy.com/view/llVXRd) by tdhooper
