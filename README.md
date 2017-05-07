@@ -9,6 +9,7 @@ I am a big fan of programmatic animations and like to learn from others. Since m
 ### Javascript examples
 
 * [Wave Motion](http://bl.ocks.org/mbostock/c66ab1426f4b8945a7ef) with d3 by bostock.
+* [Sea Waves](http://codepen.io/stefanweck/details/YNPdRR) by Stefan Weck
 
 ### Shader examples
 
