@@ -22,3 +22,7 @@ I am a big fan of programmatic animations and like to learn from others. Since m
 ### Processing Examples
  * [Dots.pde](https://gist.github.com/anonymous/9f7e57ab4ec7d8073e545e36db1ecf64) by [beesandbombs](https://twitter.com/beesandbombs/status/841419509542080512)
  * [Cube.pde(https://gist.github.com/anonymous/3de59d3b5f2dbc39ee9ef52c7440e3a5) by [beesandbombs](https://twitter.com/beesandbombs/status/830248793778057217)
+
+### Wolfram Mathematica
+
+ * [Stay Upright](http://community.wolfram.com/groups/-/m/t/1066393) 
