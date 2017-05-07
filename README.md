@@ -26,3 +26,6 @@ I am a big fan of programmatic animations and like to learn from others. Since m
 ### Wolfram Mathematica
 
  * [Stay Upright](http://community.wolfram.com/groups/-/m/t/1066393) 
+
+### Python Example
+  * [Lisajous](https://gist.github.com/justvanrossum/b9b931c25921bdb015f4af87aee9ef68)
