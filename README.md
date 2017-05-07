@@ -17,3 +17,7 @@ I am a big fan of programmatic animations and like to learn from others. Since m
  * [Scrolling Squound Tunnel](https://www.shadertoy.com/view/XtVXWw) by cacheflowe
  * [Geodesic Tiling](https://www.shadertoy.com/view/llVXRd) by tdhooper
  * [Distance Blobs](https://www.shadertoy.com/view/MlKXWm) by cacheflowe
+
+### Processing Examples
+ * [Dots.pde](https://gist.github.com/anonymous/9f7e57ab4ec7d8073e545e36db1ecf64) by [beesandbombs](https://twitter.com/beesandbombs/status/841419509542080512)
+ 
